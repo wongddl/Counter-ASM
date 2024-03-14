@@ -33,7 +33,10 @@ Program starts with a loop where checker pins `Rb4 & Rb7` are triggered when the
 ###### ONES: `Ra3`, `Ra2`,`Ra1`,`Ra0`
 
 ### INPUT CONCEPT
-####![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpeg)
+#### ![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpeg)
+### OUTPUT CONCEPT
+#### ![Counter output algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/OUTPUT.jpeg)
+
 ###### Flowchart by: Dante
 
 
