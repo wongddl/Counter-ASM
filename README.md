@@ -29,7 +29,7 @@ Program starts with bits stored to our checker pins to check of which order of L
 ###### CHECKERPIN1: `Rb4`, CHECKERPIN2: `Rb5`
 ###### TENS: `Rb3`, `Rb2`,`Rb1`,`Rb0`
 ###### ONES: `Ra3`, `Ra2`,`Ra1`,`Ra0
-![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpg)
+![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpeg)
 
 
 ## CREDITS
