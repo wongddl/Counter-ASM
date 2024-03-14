@@ -22,7 +22,7 @@ Used as display the final output of the project
 ![Schematic Diagram](https://github.com/wongddl/Counter-ASM/blob/main/Images/UPDOWN%20schematic.jpg)
 
 ## Programming
-Program starts with bits stored to our checker pins to check of which order of LDR is hovered over where it will then proceed in the sequence to either `COUNTUP` or `COUNTDOWN`. The Output of the microcontroller a total of 8-bits, as mentioned before, those are 4-bits from TENS and the other 4-bits from ONES.
+Program starts with a loop where checker pins `Rb4 & Rb7` are triggered when the LDRs (can be replaced with SPST switches for easier diagnosing) are hovered over to check of which order from L2R or R2L where it will then proceed in the sequence to either `COUNTUP` or `COUNTDOWN`. The Output of the microcontroller a total of 8-bits, as mentioned before, those are 4-bits from TENS and the other 4-bits from ONES.
 #### INPUT PINS
 ###### LDR1: `Rb6`, LDR2: `Rb7`
 #### OUTPUT PINS
