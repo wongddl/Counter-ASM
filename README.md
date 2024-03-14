@@ -20,7 +20,7 @@ Used as display the final output of the project
 
 ## Hardware
 As seen from the schematic diagram, a transistor was included for both LDRs for stabilized signal sent to the microcontroller to either only 5V(HIGH) or 0V(LOW).
-![Schematic Diagram](https://github.com/wongddl/Counter-ASM/blob/main/Images/UPDOWN%20schematic.jpg)
+#### ![Schematic Diagram](https://github.com/wongddl/Counter-ASM/blob/main/Images/UPDOWN%20schematic.jpg)
 ###### Diagram by: Jan Tan
 
 ## Programming
@@ -32,8 +32,8 @@ Program starts with a loop where checker pins `Rb4 & Rb7` are triggered when the
 ###### TENS: `Rb3`, `Rb2`,`Rb1`,`Rb0`
 ###### ONES: `Ra3`, `Ra2`,`Ra1`,`Ra0`
 
-#### Input Concept
-![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpeg)
+### INPUT CONCEPT
+####![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpeg)
 ###### Flowchart by: Dante
 
 
