@@ -19,7 +19,7 @@ BCD (Binary Coded Decimal) to 7-Segment Decoder/Driver IC
 Used as display the final output of the project
 
 ## Hardware
-As seen from the schematic diagram, a transistor was included for both LDRs for stabilized signal sent to the microcontroller to either only 5V(HIGH) or 0V(LOW).
+As seen from the schematic diagram, a transistor was included for both LDRs to stabilized the voltage sent to the microcontroller to either only be 5V(HIGH) or 0V(LOW).
 #### ![Schematic Diagram](https://github.com/wongddl/Counter-ASM/blob/main/Images/UPDOWN%20schematic.jpg)
 ###### Diagram by: Jan Tan
 
