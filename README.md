@@ -24,7 +24,7 @@ As seen from the schematic diagram, a transistor was included for both LDRs to s
 ###### Diagram by: Jan Tan
 
 ## Programming
-Program starts with a loop where checker pins `Rb4 & Rb7` are triggered when the LDRs (can be replaced with SPST switches for easier diagnosing) are hovered over to check of which order from L2R or R2L where it will then proceed in the sequence to either `COUNTUP` or `COUNTDOWN`. The Output of the microcontroller a total of 8-bits, as mentioned before, those are 4-bits from TENS and the other 4-bits from ONES.
+Program starts with a loop where checker pins `Rb4 & Rb7` are triggered when the LDRs (can be replaced with buttons for easier diagnosing) are hovered over to check which order (from L2R or R2L) where it will then proceed in the sequence to either `COUNTUP` or `COUNTDOWN`. The Output of the microcontroller totals at 8-bits, where as mentioned before, those are 4-bits from TENS at PORTB and the other 4-bits from ONES at PORTA.
 #### INPUT PINS
 ###### LDR1: `Rb6`, LDR2: `Rb7`
 #### OUTPUT PINS
@@ -36,7 +36,6 @@ Program starts with a loop where checker pins `Rb4 & Rb7` are triggered when the
 #### ![Counter input algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/COUNTER.jpeg)
 ### OUTPUT CONCEPT
 #### ![Counter output algorithm](https://github.com/wongddl/Counter-ASM/blob/main/Images/OUTPUT.jpeg)
-
 ###### Flowchart by: Dante
 
 
