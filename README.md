@@ -33,8 +33,5 @@ Program starts with bits stored to our checker pins to check of which order of L
 
 
 ## CREDITS
-This application uses Open Source components. You can find the source code of his
-open source projects along with license information below. I acknowledge and is 
-grateful to the developer for their contributions to open source.
-
+This project thrives on collaborative efforts and embraces the open-source spirit. We believe in the value of open-source contributions and encourage those who utilize our work to reciprocate by adopting similar open-source practices.
 
