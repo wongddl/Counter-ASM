@@ -16,7 +16,7 @@ Used as input to the microcontroller
 ##### Two SN74LS47N
 BCD (Binary Coded Decimal) to 7-Segment Decoder/Driver IC
 ##### Two 7-segment displays
-Used as display the final output of the project
+Used as display for the final output of the project
 
 ## Hardware
 As seen from the schematic diagram, a transistor was included for both LDRs to stabilized the voltage sent to the microcontroller to either only be 5V(HIGH) or 0V(LOW).
