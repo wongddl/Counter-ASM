@@ -36,5 +36,6 @@ Program starts with a loop where checker pins `Rb4 & Rb5` are triggered when the
 
 ## CREDITS
 Group Project by: `Jan Tan`, `Jay Villalon`, `Dante Wong de Lumen`, `Hugh Segovia`, `John Ombi-on`
+
 This project thrives on collaborative efforts and embraces the open-source spirit. We believe in the value of open-source contributions and encourage those who utilize our work to reciprocate by adopting similar open-source practices.
 
