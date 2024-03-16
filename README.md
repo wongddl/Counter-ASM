@@ -1,10 +1,6 @@
 # Counter-ASM
 Swipeable Counter (00-99) with Light Dependent Resistors (LDRs) and 7-Segment Display (PIC16F84A Assembly).
 
-## Introduction
-This project is in Partial Fulfillment of the requirements for the degree in Bachelor of Science in Electronics Engineering.
-###### Group Project by: `Jan Tan`, `Jay Villalon`, `Dante Wong de Lumen`, `Hugh Segovia`, `John Ombi-on`
-
 ## Objective
 Design a system that counts from 00 to 99 using two 7-segment displays. The user can increment and decrement the counter by swiping their hand across Light Dependent Resistors (LDRs) with motion Left to Right (COUNTUP) or Right to Left (COUNTDOWN).
 
@@ -39,5 +35,6 @@ Program starts with a loop where checker pins `Rb4 & Rb5` are triggered when the
 
 
 ## CREDITS
+Group Project by: `Jan Tan`, `Jay Villalon`, `Dante Wong de Lumen`, `Hugh Segovia`, `John Ombi-on`
 This project thrives on collaborative efforts and embraces the open-source spirit. We believe in the value of open-source contributions and encourage those who utilize our work to reciprocate by adopting similar open-source practices.
 
